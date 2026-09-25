@@ -5,7 +5,7 @@ import os
 
 # ========== YAHAN APNI DETAILS BHARO ==========
 TELEGRAM_BOT_TOKEN = "8929738339:AAGsJ2UGIXQaTe0S9d6404RftIFb7A11eGY"
-GEMINI_API_KEY = "AQ.Ab8RN6KrGRU_X-XPOiA8YifZKRzgLD2YvWjnnZewmS8gK-njDw"
+GEMINI_API_KEY = "AQ.Ab8RN6JKeUEpDGkYYZxzXmmxEyk8q_a5FqKsABv37EKJDDYehg"
 # ==============================================
 
 # Gemini LLM setup
